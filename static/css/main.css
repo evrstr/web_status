@@ -56,13 +56,13 @@ a {
 }
 
 #header .logo {
-    font-size: 18px;
+    font-size: 24px;
     font-weight: 700;
     color: #000000;
 }
 
 #header .navi {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 #header .navi a {
@@ -100,7 +100,7 @@ a {
 
 #uptime .item:hover {
     /* background-color: #fffdf5 */
-    background: rgba(128, 144, 162, 0.8);
+    background: rgba(128, 144, 162, 0.15);
 }
 
 #uptime .meta {
