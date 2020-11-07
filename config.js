@@ -5,7 +5,7 @@ window.Config = {
     SiteName: 'evrStr监测站',
 
     // 站点链接
-    SiteUrl: 'status.evrstr.cc',
+    SiteUrl: '/',
 
     // UptimeRobot Api Keys
     // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
@@ -26,9 +26,7 @@ window.Config = {
 
     // 导航栏菜单
     Navi: [{
-            text: '博客',
-            url: 'https://evrstr.cc/'
-        },
-
-    ]
+        text: '博客',
+        url: 'https://evrstr.cc/'
+    }, ]
 };
