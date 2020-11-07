@@ -2,7 +2,7 @@
 window.Config = {
 
     // 站点名
-    SiteName: 'evrStr运营站',
+    SiteName: 'evrStr监测站',
 
     // 站点链接
     SiteUrl: 'status.evrstr.cc',
